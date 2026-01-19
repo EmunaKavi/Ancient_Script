@@ -1,4 +1,4 @@
-# Dharani: Ancient Tamil Inscription Deciphering
+# Ancient Tamil Inscription Deciphering
 
 A full-stack application for the OCR and translation of ancient Tamil scripts (Brahmi, Vatteluttu) using a hybrid deep learning approach.
 
